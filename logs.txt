@@ -1,0 +1,9 @@
+10/07/2023 21:18:09 - http://www.google.com - online: true
+10/07/2023 21:18:09 - http://www.atados.com - online: false
+10/07/2023 21:18:10 - http://www.atados.com.br - online: true
+10/07/2023 21:18:15 - http://www.google.com - online: true
+10/07/2023 21:18:15 - http://www.atados.com - online: false
+10/07/2023 21:18:15 - http://www.atados.com.br - online: true
+10/07/2023 21:18:21 - http://www.google.com - online: true
+10/07/2023 21:18:21 - http://www.atados.com - online: false
+10/07/2023 21:18:22 - http://www.atados.com.br - online: true
